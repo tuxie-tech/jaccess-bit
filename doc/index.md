@@ -2,7 +2,7 @@
 layout: layouts/catalog-page
 title: Jaccess:Bit
 info: >-
-    Plug access switches, joysticks and more directly into your Micro:bit without fragile wires everywhere
+    Plug access switches, joysticks and more directly into your Micro:bit without awkward wires getting everywhere.
 hero:
     - front.png
     - back.png
