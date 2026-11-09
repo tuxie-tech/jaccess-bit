@@ -10,7 +10,7 @@ mfn:
     - hwidx.org/2/2/4.2/
 tags:
     - hardware
-canPurchase: false
+squareId: 3N7UFPFW7ROOFZPAIKIYS4IY
 ---
 
 The Jaccess:Bit is a Micro:bit add-on board that lets you plug in accessibility switches, joysticks and other assistive controls directly, in place of fragile jumper wires and awkward hand-soldering.
