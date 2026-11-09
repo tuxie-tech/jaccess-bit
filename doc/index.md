@@ -2,7 +2,7 @@
 layout: layouts/catalog-page
 title: Jaccess:Bit
 info: >-
-    Plug access switches, joysticks and more directly into your Micro:bit without awkward wires getting everywhere.
+    Plug access switches, joysticks and more directly into your micro:bit without awkward wires getting everywhere.
 hero:
     - front.png
     - back.png
@@ -13,14 +13,14 @@ tags:
 squareId: 3N7UFPFW7ROOFZPAIKIYS4IY
 ---
 
-The Jaccess:Bit is a Micro:bit add-on board that lets you plug in accessibility switches, joysticks and other assistive controls directly, in place of fragile jumper wires and awkward hand-soldering.
-It externalises the Micro:bit's `A` and `B` buttons out to a set of robust 3.5mm switch jacks, so a large external switch can stand in for a tiny onboard button.
-This means anyone can take advantage of the huge range of Micro:bit teaching and training resources already out there, regardless of any mobility issues that might make the onboard buttons hard to use.
+The Jaccess:Bit is a micro:bit add-on board that lets you plug in accessibility switches, joysticks and other assistive controls directly, in place of fragile jumper wires and awkward hand-soldering.
+It externalises the micro:bit's `A` and `B` buttons out to a set of robust 3.5mm switch jacks, so a large external switch can stand in for a tiny onboard button.
+This means anyone can take advantage of the huge range of micro:bit teaching and training resources already out there, regardless of any mobility issues that might make the onboard buttons hard to use.
 
 <x-shelf>
     <x-card>
-        <x-photo><img src="front.png" alt="The Jaccess:Bit from the front, with a Micro:bit fitted" /></x-photo>
-        <x-caption>The Jaccess:Bit with a Micro:bit fitted.</x-caption>
+        <x-photo><img src="front.png" alt="The Jaccess:Bit from the front, with a micro:bit fitted" /></x-photo>
+        <x-caption>The Jaccess:Bit with a micro:bit fitted.</x-caption>
     </x-card>
     <x-card>
         <x-photo><img src="back.png" alt="The Jaccess:Bit from the back" /></x-photo>
